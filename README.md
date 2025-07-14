@@ -1,6 +1,6 @@
 <div align="center">
 
-<img  alt="google-gemini-icon" height="70" />🌦️
+<img  height="70" />🌦️
 
 # Gemini Clone
 
