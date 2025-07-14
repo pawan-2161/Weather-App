@@ -1,3 +1,19 @@
+<div align="center">
+
+<img  alt="google-gemini-icon" height="70" />🌦️
+
+# Gemini Clone
+
+![created-at](https://img.shields.io/badge/created%20at-May%202025-yellow)
+![Repo Size](https://img.shields.io/badge/repo%20size-209%20KiB-blue)
+![discussions](https://img.shields.io/badge/discussions-1%20total-blue)
+![license](https://img.shields.io/badge/license-MIT-brightgreen)
+![wakatime](https://img.shields.io/badge/wakatime-16%20hrs%207%20mins-blue)
+
+</div>
+
+
+
 # 🌦️ Weather App
 
 A simple and interactive weather application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to search for real-time weather data by city name using the **OpenWeatherMap API**.
