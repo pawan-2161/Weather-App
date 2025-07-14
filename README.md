@@ -1,9 +1,5 @@
 <div align="center">
 
-<img  height="70" />🌦️
-
-# Gemini Clone
-
 ![created-at](https://img.shields.io/badge/created%20at-May%202025-yellow)
 ![Repo Size](https://img.shields.io/badge/repo%20size-209%20KiB-blue)
 ![discussions](https://img.shields.io/badge/discussions-1%20total-blue)
