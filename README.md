@@ -1,10 +1,10 @@
 <div align="center">
 
-![created-at](https://img.shields.io/badge/created%20at-dec%202024-yellow)
+![created-at](https://img.shields.io/badge/created%20at-Dec%202024-yellow)
 ![Repo Size](https://img.shields.io/badge/repo%20size-209%20KiB-blue)
 ![discussions](https://img.shields.io/badge/discussions-1%20total-blue)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
-![wakatime](https://img.shields.io/badge/wakatime-16%20hrs%207%20mins-blue)
+![wakatime](https://img.shields.io/badge/wakatime-5%20hrs%2030%20mins-blue)
 
 </div>
 
